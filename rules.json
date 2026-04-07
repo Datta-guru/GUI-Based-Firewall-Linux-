@@ -1,0 +1,20 @@
+[
+    {
+        "position": 0,
+        "direction": "OUTPUT",
+        "src": "ANY",
+        "dst": "ANY",
+        "port": 80,
+        "protocol": "TCP",
+        "action": "DROP"
+    },
+    {
+        "position": 1,
+        "direction": "INPUT",
+        "src": "172.0.30.83",
+        "dst": "ANY",
+        "port": 22,
+        "protocol": "TCP",
+        "action": "DROP"
+    }
+]
