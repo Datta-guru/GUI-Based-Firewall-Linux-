@@ -11,8 +11,8 @@ The application stores rules in a JSON file and applies them directly to the sys
 Example rules stored in the system:
 
 ## Features
-Easy-to-use GUI (Tkinter)  
-Add, delete, and reorder rules  
+- Easy-to-use GUI (Tkinter)  
+- Add, delete, and reorder rules  
 Input validation (IP & Port)  
 Apply rules using iptables  
 Persistent storage using JSON  
