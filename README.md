@@ -34,8 +34,8 @@ Linux OS (Arch / Ubuntu recommended)
 Python 3.x  
 Root privileges  
 iptables installed  
-### Installation & Setup (Linux)
-Install Dependencies
+## Installation & Setup (Linux)
+### Install Dependencies
 #### Arch
 sudo pacman -S python python-pip iptables   
 
