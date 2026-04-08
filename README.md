@@ -23,6 +23,7 @@ Example rules stored in the system:
 .  
 ├── main.py        # Main application file  
 ├── rules.json     # Stores firewall rules  
+├── README.md
 
 Main logic and GUI are implemented in:  
 
